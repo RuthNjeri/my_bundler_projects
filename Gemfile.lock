@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    i18n (0.7.0)
+    money (6.6.1)
+      i18n (>= 0.6.4, <= 0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  money
